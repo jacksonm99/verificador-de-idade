@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(110, 110, 206);
+    color: #fff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section{
+    width: 400px;
+    background-color: #fff;
+    margin: auto;
+    color: black;
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.349);
+}
+
+#foto img{
+    width: 200px;
+    border-radius: 100%;
+}
